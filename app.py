@@ -17,7 +17,7 @@ import speech_recognition as sr
 import openai
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyApymR9uyb48LlI9z3CHbW54EYbCCMmad0")
+genai.configure(api_key="")
 
 # Set up the model
 generation_config = {
