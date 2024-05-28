@@ -21,3 +21,61 @@ We learned many things throughout the development of EUDA. We gained knowledge a
 
 ## What's next for EUDA
 Moving forward, we plan to continue improving and expanding EUDA's capabilities by incorporating new technologies and features, such as the ability to recognize a broader range of emotions and feelings. We also want to create a 3D avatar to communicate with users. This avatar could be designed to speak out loud, using voice and facial expressions to convey emotion and empathy. This would create a more immersive and interactive experience for users, and could potentially lead to even greater engagement with EUDA. We also want to expand the product and connect it more to the community by creating online forums and support groups to help users. Overall, there are many exciting possibilities for EUDA's future development, and we look forward to continuing to improve and expand the platform in order to provide the best possible support and care for those in need.
+
+
+<div align="center">
+
+
+# EUDA (Emotion Understanding and Development AI)
+</div>
+
+### Cloning the repository
+
+
+--> Move into the directory where we have the project files : 
+```bash
+cd euda
+
+```
+
+--> Create a virtual environment :
+```bash
+# Let's install virtualenv first
+pip install virtualenv
+
+# Then we create our virtual environment
+virtualenv envname
+
+```
+
+--> Activate the virtual environment :
+```bash
+envname\scripts\activate
+
+```
+
+--> Install the requirements :
+```bash
+pip install -r requirements.txt
+
+```
+
+#
+
+### Running the App
+
+--> To run the App, we use :
+```bash
+python manage.py runserver
+
+```
+
+> ⚠ Then, the development server will be started at http://127.0.0.1:8000/
+
+#
+
+
+</table>
+
+
+
